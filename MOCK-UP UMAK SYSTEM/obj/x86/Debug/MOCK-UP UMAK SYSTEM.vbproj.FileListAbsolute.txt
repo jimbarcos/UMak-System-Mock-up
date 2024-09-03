@@ -1,0 +1,253 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\MJ\Downloads\files all in cpg - download\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\vb proj\vs2019\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.BRIDGE.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\ACER\Desktop\vb proj\MAIN\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\MJ\Documents\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.THE_DEV.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.THE_DEV.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\ACER\Desktop\vb proj\FINAL\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.THE_DEV.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\Users\ACER\Desktop\Jim (G12)\Subjects\ComProg 3\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\Interop.WMPLib.dll
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.ResolveComReference.cache
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.exe
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.pdb
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\MOCK-UP UMAK SYSTEM.xml
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\Interop.WMPLib.dll
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\bin\Debug\AxInterop.WMPLib.dll
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.ADMISSION.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.AWARDS.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.COLLEGES.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.FACILITIES.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.THE_DEV.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HISTORY.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_ADMISSION.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.HSU_INTERFACE.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.RETRIEVE_ACCT.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SCHOLARSHIP.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.SIGN_up.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_FORM.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.MAIN_INTERFACE.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.Resources.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_ENCYCLOPEDIA.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION2.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION3.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION4.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.S_T_EVALUATION5.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK_UP_UMAK_SYSTEM.UMAK_QUIZ.resources
+C:\CPG PROJECTS\MOCK-UP UMAK SYSTEM\12-01 CPG Project (Barcos Group)\MOCK-UP UMAK SYSTEM\MOCK-UP UMAK SYSTEM\obj\x86\Debug\MOCK-UP UMAK SYSTEM.vbproj.GenerateResource.Cache

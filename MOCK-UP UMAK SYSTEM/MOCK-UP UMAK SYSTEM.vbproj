@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{89D8BC30-BE66-4ACD-80D8-F3D004452961}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MOCK_UP_UMAK_SYSTEM.My.MyApplication</StartupObject>
+    <RootNamespace>MOCK_UP_UMAK_SYSTEM</RootNamespace>
+    <AssemblyName>MOCK-UP UMAK SYSTEM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MOCK-UP UMAK SYSTEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MOCK-UP UMAK SYSTEM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMISSION.Designer.vb">
+      <DependentUpon>ADMISSION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADMISSION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AWARDS.Designer.vb">
+      <DependentUpon>AWARDS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AWARDS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COLLEGES.Designer.vb">
+      <DependentUpon>COLLEGES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="COLLEGES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FACILITIES.Designer.vb">
+      <DependentUpon>FACILITIES.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FACILITIES.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="THE_DEV.Designer.vb">
+      <DependentUpon>THE_DEV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="THE_DEV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HISTORY.Designer.vb">
+      <DependentUpon>HISTORY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HISTORY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HSU_ADMISSION.Designer.vb">
+      <DependentUpon>HSU_ADMISSION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HSU_ADMISSION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HSU_INTERFACE.Designer.vb">
+      <DependentUpon>HSU_INTERFACE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="HSU_INTERFACE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RETRIEVE_ACCT.Designer.vb">
+      <DependentUpon>RETRIEVE_ACCT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RETRIEVE_ACCT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCHOLARSHIP.Designer.vb">
+      <DependentUpon>SCHOLARSHIP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SCHOLARSHIP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIGN_UP.Designer.vb">
+      <DependentUpon>SIGN_UP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SIGN_UP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORM.Designer.vb">
+      <DependentUpon>MAIN_FORM.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_INTERFACE.Designer.vb">
+      <DependentUpon>MAIN_INTERFACE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_INTERFACE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="S_T_ENCYCLOPEDIA.Designer.vb">
+      <DependentUpon>S_T_ENCYCLOPEDIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_ENCYCLOPEDIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_T_EVALUATION.Designer.vb">
+      <DependentUpon>S_T_EVALUATION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_EVALUATION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_T_EVALUATION2.Designer.vb">
+      <DependentUpon>S_T_EVALUATION2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_EVALUATION2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_T_EVALUATION3.Designer.vb">
+      <DependentUpon>S_T_EVALUATION3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_EVALUATION3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_T_EVALUATION4.Designer.vb">
+      <DependentUpon>S_T_EVALUATION4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_EVALUATION4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="S_T_EVALUATION5.Designer.vb">
+      <DependentUpon>S_T_EVALUATION5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="S_T_EVALUATION5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UMAK_QUIZ.Designer.vb">
+      <DependentUpon>UMAK_QUIZ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UMAK_QUIZ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADMISSION.resx">
+      <DependentUpon>ADMISSION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AWARDS.resx">
+      <DependentUpon>AWARDS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COLLEGES.resx">
+      <DependentUpon>COLLEGES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FACILITIES.resx">
+      <DependentUpon>FACILITIES.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="THE_DEV.resx">
+      <DependentUpon>THE_DEV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HISTORY.resx">
+      <DependentUpon>HISTORY.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HSU_ADMISSION.resx">
+      <DependentUpon>HSU_ADMISSION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HSU_INTERFACE.resx">
+      <DependentUpon>HSU_INTERFACE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RETRIEVE_ACCT.resx">
+      <DependentUpon>RETRIEVE_ACCT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCHOLARSHIP.resx">
+      <DependentUpon>SCHOLARSHIP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SIGN_UP.resx">
+      <DependentUpon>SIGN_UP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORM.resx">
+      <DependentUpon>MAIN_FORM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_INTERFACE.resx">
+      <DependentUpon>MAIN_INTERFACE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_ENCYCLOPEDIA.resx">
+      <DependentUpon>S_T_ENCYCLOPEDIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_EVALUATION.resx">
+      <DependentUpon>S_T_EVALUATION.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_EVALUATION2.resx">
+      <DependentUpon>S_T_EVALUATION2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_EVALUATION3.resx">
+      <DependentUpon>S_T_EVALUATION3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_EVALUATION4.resx">
+      <DependentUpon>S_T_EVALUATION4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="S_T_EVALUATION5.resx">
+      <DependentUpon>S_T_EVALUATION5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UMAK_QUIZ.resx">
+      <DependentUpon>UMAK_QUIZ.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
